@@ -1,2 +1,6 @@
-# dio-desafio-github
-Bootcamp Developing games with JavaScript - using Git and GitHub
+# Git and GitHub DIO challenge project
+Repository created for a challenge project
+
+
+## Links
+[Basic Markdown syntax](https://www.markdownguide.org/basic-syntax/)
